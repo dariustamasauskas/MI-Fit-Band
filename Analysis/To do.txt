@@ -3,3 +3,5 @@
 - Visualize data to understand the whole trend
 - Understand if weekday is affecting activity/sleep performance
 - Understand if activity is correlated with sleep
+- Understand what % of time Huawei phone is idle compared to MI Fit Band
+- Understand if ratio between steps/distance/calories is the same for phone and band
