@@ -9,5 +9,3 @@ The data from MI Fit Band was extracted from the app and contains the records fr
 
 The data from Huawei Health app was inputted manually into the .xlsx file (as there is no option for extracting it) and contains the records for the same period as MI Fit Band. The data is the following file:
 - HUAWEI.xlsx
-
-![MI Fit Band](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Xiaomi_logo.svg/200px-Xiaomi_logo.svg.png)
