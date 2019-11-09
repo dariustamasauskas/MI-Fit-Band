@@ -1,6 +1,6 @@
 
 - Calculate descriptive statistics for various fields
-- Visualize data to understand the whole trend
+- Visualize data to understand the trends
 - Understand if weekday is affecting activity/sleep performance
 - Understand if activity is correlated with sleep
 - Understand what % of time Huawei phone is idle compared to MI Fit Band
