@@ -12,5 +12,5 @@ As an addition, data from Huawei Health app was collected to compare it to the d
 Data from Huawei Health app was also inputted manually and contains records for the same period as MI Fit Band. The data is in the following file on data folder:
 - HUAWEI.xlsx
 
-The analysis was done to understand activity and sleep trends and could be found in the following file on analysis folder:
-- MI_Fit_Band.ipynb
+The analysis was done to understand activity and sleep trends and could be found in the following file:
+- analysis.ipynb
